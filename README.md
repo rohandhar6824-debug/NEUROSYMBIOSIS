@@ -89,10 +89,9 @@ Row 7: 🤖 Agent Performance
 Row 8: 🔗 Knowledge Graph + Stats
 ```
 ## 🎓 **Built By**
-```
 **Rohan Dhar**    
 *Open Source ML Contributor*
-```
+
 
 ## 🔮 **Future Roadmap**
 ```
