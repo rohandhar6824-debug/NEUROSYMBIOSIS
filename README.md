@@ -1,4 +1,4 @@
-# NEUROSYMBIOSIS
+# NeuroSymbiosis
 Multi-Agent AI for Therapeutic Protein Design &amp; Sustainable Biomaterials
 <br>
 <br>
