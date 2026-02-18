@@ -3,7 +3,8 @@ Multi-Agent AI for Therapeutic Protein Design &amp; Sustainable Biomaterials
 <br>
 <br>
 **🚀 First-of-its-kind AI platform** that simulates **human brain neural ensembles** → generates **novel therapeutic proteins** for neurodegenerative diseases (Alzheimer's, Parkinson's) + sustainable biomaterials.
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4d7af188-a097-456b-8bc7-4d7a9fe928b4" />
+<img width="1941" height="2709" alt="image" src="https://github.com/user-attachments/assets/8599a113-89da-4574-9625-6598771cb951" />
+
 
 
 ## 🎯 **What Makes This Unique (Blue Ocean)**
