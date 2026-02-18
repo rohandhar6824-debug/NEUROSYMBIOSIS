@@ -3,7 +3,8 @@ Multi-Agent AI for Therapeutic Protein Design &amp; Sustainable Biomaterials
 <br>
 <br>
 **🚀 First-of-its-kind AI platform** that simulates **human brain neural ensembles** → generates **novel therapeutic proteins** for neurodegenerative diseases (Alzheimer's, Parkinson's) + sustainable biomaterials.
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/da4a4cd9-fa89-46da-9cdc-19b56c52403e" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4d7af188-a097-456b-8bc7-4d7a9fe928b4" />
+
 
 ## 🎯 **What Makes This Unique (Blue Ocean)**
 
@@ -87,10 +88,8 @@ Row 6: 🌍 Sustainability Scores
 Row 7: 🤖 Agent Performance
 Row 8: 🔗 Knowledge Graph + Stats
 ```
-
-```
-
 ## 🎓 **Built By**
+```
 **Rohan Dhar**    
 *Open Source ML Contributor*
 ```
