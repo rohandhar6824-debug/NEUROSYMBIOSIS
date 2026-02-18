@@ -104,9 +104,5 @@ Phase 4: Real fMRI data + clinical trials
 🧠 **Built with ❤️ for neuroscience + sustainability**
 
 
-
-
-
 ## 🎓 **Built By**
-**Rohan Dhar**    
-*Open Source ML Contributor*
+**Human for Humans+Nature 😉**    
